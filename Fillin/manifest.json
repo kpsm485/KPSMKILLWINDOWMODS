@@ -1,0 +1,23 @@
+{
+	"name": "FillinZephyer",
+	"namespace": "Bowsertron",
+	"version_number": "1.0.0",
+	"description": "Fills in Zephyer",
+	"website_url": "https://github.com/example/repo",
+	"dependencies": [
+		"3207573074"
+	],
+	"extra": {
+		"godot": {
+			"authors": ["Bowsertron"],
+			"tags": [],
+			"description_rich": "This makes the the 2nd and 3rd option on Zephyer fill it in",
+			"optional_dependencies": [],
+			"load_before": ["3207573074"],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["3.2.1"],
+			"config_schema": {}
+		}
+	}
+}
